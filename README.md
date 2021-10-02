@@ -1,10 +1,10 @@
 # Melanoma-Boys
 CSC490 Medical Dataset Project
 
-# Group name: 
+## Group name: 
 Melanoma Boys
 
-# Team member names: 
+## Team member names: 
 Alees Ahmad Goraya
 Xiaoyang Wu
 Brandon Elefano
