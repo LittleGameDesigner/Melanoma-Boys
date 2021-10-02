@@ -2,11 +2,11 @@
 CSC490 Medical Dataset Project
 
 ## Group name: 
-Melanoma Boys
+Melanoma Boys<br />
 
 ## Team member names: 
-Alees Ahmad Goraya
-Xiaoyang Wu
-Brandon Elefano
-Harshraj Gohil
+Alees Ahmad Goraya<br />
+Xiaoyang Wu<br />
+Brandon Elefano<br />
+Harshraj Gohil<br />
 
