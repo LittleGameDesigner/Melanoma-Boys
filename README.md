@@ -24,15 +24,6 @@ Early identification of cancer gives doctors more time to treat the disease, thu
 
 **Link:** https://challenge.isic-archive.com/landing/2017/42
 
-## Models
-
-We implemented the following models:
-
-*    5 Layer UNet
-*    6 Layer UNet
-*    Convolutional-Deconvolutional Neural Network
-*    Deeplab + ResNeXt
-
 ## How to run
 
 This notebook must be run on Google Colaboratory.
