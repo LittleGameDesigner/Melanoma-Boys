@@ -50,6 +50,7 @@ Moreover, you need to run the following from the repository root to compile the 
     cat weight_unet_preprocessed.?? > weights_unet_preprocessed.h5
     mv weights_unet_preprocessed.h5 ..
     
+You can also access the notebook [here](https://colab.research.google.com/drive/1rjuYMO7enxPjLzdPeYLmMtyXiDyHq3vH?usp=sharing).
 
 ## Sources
 [1] N. C. Codella, D. Gutman, M. E. Celebi, B. Helba, M. A. Marchetti, S. W. Dusza, A. Kalloo, K. Liopyris, N. Mishra, H. Kittler, and A. Halpern, “Skin lesion analysis toward melanoma detection: A challenge at the 2017 International Symposium on Biomedical Imaging (ISBI), hosted by the International Skin Imaging Collaboration (ISIC),” 2018 IEEE 15th International Symposium on Biomedical Imaging (ISBI 2018), Jan. 2018.
