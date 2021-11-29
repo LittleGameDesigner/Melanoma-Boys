@@ -43,12 +43,16 @@ The ISIC folders can be found here: [ISIC 2017 Challenge](https://challenge.isic
 Moreover, you need to run the following from the repository root to compile the UNet weights:
 
     cd /Model/weight_unet
-    cat weight_unet.?? > weights_unet.h5
+    cat weights_unet.?? > weights_unet.h5
     mv weights_unet.h5 ..
     
     cd ../weight_unet_preprocessed
-    cat weight_unet_preprocessed.?? > weights_unet_preprocessed.h5
+    cat weights_unet_preprocessed.?? > weights_unet_preprocessed.h5
     mv weights_unet_preprocessed.h5 ..
+    
+    cd ../weight_unet_alternative
+    cat weights_unet_alternative.?? > weights_unet_alternative.h5
+    mv weights_unet_alternative.h5 ..
     
 You can also access the notebook [here](https://colab.research.google.com/drive/1rjuYMO7enxPjLzdPeYLmMtyXiDyHq3vH?usp=sharing).
 
